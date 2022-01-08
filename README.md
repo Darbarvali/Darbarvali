@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **darbar_b190690me@nitc.ac.in**
 
-- 📄 Know about my experiences [[Resume](https://www.linkedin.com/in/darbarvalik/overlay/1635474137872/single-media-viewer/)]([Resume](https://www.linkedin.com/in/darbarvalik/overlay/1635474137872/single-media-viewer/))
+- 📄 Know about my experiences [[Resume](https://www.linkedin.com/in/darbarvalik/overlay/1635474137872/single-media-viewer/)]
 
 
 <h3 align="left">Connect with me:</h3>
