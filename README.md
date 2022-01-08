@@ -12,11 +12,16 @@
 
 - 📫 How to reach me **darbar_b190690me@nitc.ac.in**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/darbarvalik/overlay/1635474137872/single-media-viewer/](https://www.linkedin.com/in/darbarvalik/overlay/1635474137872/single-media-viewer/)
+- 📄 Know about my experiences [[Resume](https://www.linkedin.com/in/darbarvalik/overlay/1635474137872/single-media-viewer/)]([Resume](https://www.linkedin.com/in/darbarvalik/overlay/1635474137872/single-media-viewer/))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darbarvalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darbarvalik" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/daru_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="daru_123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/darbar_b190690me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darbar_b190690me" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/darbar_b190690me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darbar_b190690me" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/darbarb190690me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darbarb190690me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
