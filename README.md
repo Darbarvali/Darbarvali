@@ -1,21 +1,21 @@
 <!--TOP WAVY-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20DARBAR%20VALI%20K&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Software%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20DARBAR%20VALI%20K&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Software%20Developer%20👨‍🎓&descAlignY=51&descAlign=62"/>
 
 
 <!--CONNECT ME BADGES-->
 <p align="center">
-  <a href="https://linkedin.com/in/palash-bajpai" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/darbarvalik/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/daru_2.0_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 
 <!--BADGES-->
 <p align="left">
-  <a href="https://gist.github.com/PALASH-BAJPAI"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=My Gists&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="my gits"/></a>
-    <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
+  <a href="https://github.com/Darbarvali"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=My Gists&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="my gits"/></a>
+    <img src="https://komarev.com/ghpvc/?username=Darbarvali&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
   
-  <a href="https://github.com/palash-bajpai/stargazers">
-    <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
+  <a href="https://github.com/Darbarvali/stargazers">
+    <img src="https://img.shields.io/github/stars/Darbarvali"/> 
   </a>
 </p>
 
@@ -26,13 +26,19 @@
 
 <!--ABOUT ME CONTENT-->
 <p>
-A zealous, creative and adept engineer hailing from Indore, with an undergraduate degree in Computer Science and Engineering from one of the premier institutes of India, namely National Institute of Technology, Calicut.Well versed in Python, C, HTML, CSS, JavaScript, React and React Native. Efficient in graphics designing and UI-UX, with an expertise in Photoshop, Illustrator and Figma. Currently mastering one of the vast domains, Machine Learning.
+Born in 2001.Raised in small village in Andhra Pradesh,India.
+Even been hard at studies in Mechanical Engineering I started a new chapter in my story as a self-determined learner in coding languages like Python,C++.....
+I'm also proficient in Front end, back end and coding is my major hobby .....
+While I'm not coding you'll find me either Googling latest facts and technologies , watching movies or sleeping .....
+
+Always on lookout for efficient projects to work on...|
+Well versed in Python, C, HTML, CSS, JavaScript, React and React Native. Efficient in graphics designing and UI-UX, with an expertise in Photoshop, Illustrator and Figma. Currently mastering one of the vast domains, Machine Learning.
   
-  - 🌱 I’m currently learning Machine Learning , Java
+  - 🌱 I’m currently learning Machine Learning 
 
   - 💬 Ask me about **React, React Native, Python, Javascript**
 
-  - 📫 How to reach me **palashbajpai45@gmail.com**
+  - 📫 How to reach me **darbarvalik@gmail.com**
   
 </p>
 
@@ -42,13 +48,7 @@ A zealous, creative and adept engineer hailing from Indore, with an undergraduat
 </p>
 
 
-<h3 align="left">Coding profiles:</h3>
-<p align="left"> 
-<a href="https://www.codechef.com/users/palash_bajpai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="palash_bajpai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/palashbajpai214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palashbajpai214" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/palashbajpai45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palashbajpai45" height="30" width="40" /></a>
-</p>
-<br/>
+
 
 
 
